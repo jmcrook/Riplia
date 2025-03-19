@@ -1,6 +1,6 @@
 # Vietoris-Rips Algorithm in Julia
 
-A frugal implementation of the Vietoris-Rips algorithm for topological data analysis in Julia.
+An implementation of the Vietoris-Rips algorithm for topological data analysis in Julia. Written by AI using cursor and only two prompts.
 
 ## Overview
 
